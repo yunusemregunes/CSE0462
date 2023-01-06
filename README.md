@@ -1,7 +1,7 @@
 # CSE0462
 Software Development With Standarts
 
-
+All the code files uploaded for both games.
 
 1800001868 Yunus Emre Güneş
 1800004219 Mertcan Ercan
